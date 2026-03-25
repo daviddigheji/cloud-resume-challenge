@@ -1,4 +1,4 @@
-# cloud Resume Challenge
+#   Cloud Resume Challenge
 
 ##  Projects
-- [frontend](./frontend/README.md)
+- [Frontend](./frontend/README.md)
